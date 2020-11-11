@@ -135,10 +135,10 @@ babyOne.play();
   TASK 4
 
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
-  3. 
-  4. 
+  1. Window Binding - When 'this' needs some context.
+  2. Implicit Binding - Most common, the object to the left of the dot gets 'this'.
+  3. New Binding - 'this' refers to the specific object that is created.
+  4. Explicit Binding - When .call or .apply is used, 'this' is explicitly defined.
 */
 
 
